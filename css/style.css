@@ -36,7 +36,7 @@ li {
   font-weight: 400;
   font-style: normal;
   font-size: 1.5rem;
-  animation: 5.3333333333s spiral-staircase linear infinite;
+  animation: 6.6666666667s spiral-staircase linear infinite;
 }
 
 li:nth-child(1) {
@@ -103,6 +103,22 @@ li:nth-child(16) {
   animation-delay: 5.3333333333s;
 }
 
+li:nth-child(17) {
+  animation-delay: 5.6666666667s;
+}
+
+li:nth-child(18) {
+  animation-delay: 6s;
+}
+
+li:nth-child(19) {
+  animation-delay: 6.3333333333s;
+}
+
+li:nth-child(20) {
+  animation-delay: 6.6666666667s;
+}
+
 li:nth-child(1) {
   right: 1rem;
 }
@@ -165,6 +181,22 @@ li:nth-child(8) {
 
 li:nth-last-child(8) {
   right: 8rem;
+}
+
+li:nth-last-child(9) {
+  right: 9rem;
+}
+
+li:nth-last-child(9) {
+  right: 9rem;
+}
+
+li:nth-last-child(10) {
+  right: 10rem;
+}
+
+li:nth-last-child(10) {
+  right: 10rem;
 }
 
 @keyframes spiral-staircase {
