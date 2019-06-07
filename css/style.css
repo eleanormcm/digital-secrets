@@ -36,7 +36,7 @@ li {
   font-weight: 400;
   font-style: normal;
   font-size: 1.5rem;
-  animation: 7.6666666667s spiral-staircase linear infinite;
+  animation: 9s spiral-staircase linear infinite;
 }
 
 li:nth-child(1) {
@@ -118,6 +118,7 @@ li:nth-child(19) {
 li:nth-child(20) {
   animation-delay: 6.6666666667s;
 }
+
 li:nth-child(21) {
   animation-delay: 7s;
 }
@@ -129,6 +130,23 @@ li:nth-child(22) {
 li:nth-child(23) {
   animation-delay: 7.6666666667s;
 }
+
+li:nth-child(24) {
+  animation-delay: 8s;
+}
+
+li:nth-child(25) {
+  animation-delay: 8.3333333333s;
+}
+
+li:nth-child(26) {
+  animation-delay: 8.6666666667s;
+}
+
+li:nth-child(27) {
+  animation-delay: 9s;
+}
+
 li:nth-child(1) {
   right: 1rem;
 }
